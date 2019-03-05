@@ -10,5 +10,5 @@ An app using the OMDB API to search for a movie to get the info on it.
 
 ## Note
 
-- I created this project by following the tutorial of (Brad Traversy's Video)[https://www.youtube.com/watch?v=YsPqjYGauns&t=1505s&index=10&list=WL]
+- I created this project by following the tutorial of [Brad Traversy's Video](https://www.youtube.com/watch?v=YsPqjYGauns&t=1505s&index=10&list=WL)
 - I wanted to follow this tutorial so I can get more practice with APIs.
